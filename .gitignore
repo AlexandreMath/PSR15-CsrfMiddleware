@@ -1,0 +1,11 @@
+# Environment garbage
+.idea
+*.iml
+
+
+# Project Specific
+.php_cs.cache
+composer.lock
+composer.phar
+vendor/
+nbproject/
